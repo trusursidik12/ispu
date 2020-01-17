@@ -1,0 +1,2 @@
+# trusur
+.exe
